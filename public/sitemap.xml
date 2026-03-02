@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- 홈페이지 -->
+  <url>
+    <loc>https://intercs.co.kr/</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 브랜드소개 -->
+  <url>
+    <loc>https://intercs.co.kr/Brand/intro</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/Brand/video</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 사업개요 -->
+  <url>
+    <loc>https://intercs.co.kr/BusinessGuide/intro</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 입지환경 -->
+  <url>
+    <loc>https://intercs.co.kr/LocationEnvironment/intro</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- 프리미엄 (라우트: primium) -->
+  <url>
+    <loc>https://intercs.co.kr/LocationEnvironment/primium</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 단지안내 -->
+  <url>
+    <loc>https://intercs.co.kr/ComplexGuide/intro</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/ComplexGuide/detailintro</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/ComplexGuide/community</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 세대안내 (헤더 subUrl 그대로 반영) -->
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/59A</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/59B</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/84A</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/84B</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/114A</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/114B</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://intercs.co.kr/FloorPlan/Emodel</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 관심고객등록 -->
+  <url>
+    <loc>https://intercs.co.kr/Promotion/Customer</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

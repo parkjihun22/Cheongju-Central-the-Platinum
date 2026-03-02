@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>청주 센트럴 더 플래티넘</title>
+    <link>https://intercs.co.kr/</link>
+    <description>청주 센트럴 더 플래티넘 공식 RSS입니다. 브랜드소개, 사업개요, 입지환경, 단지안내, 세대안내, 관심고객등록 정보를 제공합니다.</description>
+    <language>ko-KR</language>
+    <atom:link href="https://intercs.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- 브랜드 소개 -->
+    <item>
+      <title>브랜드 소개</title>
+      <link>https://intercs.co.kr/Brand/intro</link>
+      <guid isPermaLink="true">https://intercs.co.kr/Brand/intro</guid>
+      <description><![CDATA[브랜드 철학과 가치를 소개합니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 홍보 영상 -->
+    <item>
+      <title>홍보 영상</title>
+      <link>https://intercs.co.kr/Brand/video</link>
+      <guid isPermaLink="true">https://intercs.co.kr/Brand/video</guid>
+      <description><![CDATA[홍보 영상으로 단지의 핵심 포인트를 확인하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 사업안내 -->
+    <item>
+      <title>사업안내</title>
+      <link>https://intercs.co.kr/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://intercs.co.kr/BusinessGuide/intro</guid>
+      <description><![CDATA[사업 개요 및 주요 정보를 안내합니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 입지안내 -->
+    <item>
+      <title>입지안내</title>
+      <link>https://intercs.co.kr/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://intercs.co.kr/LocationEnvironment/intro</guid>
+      <description><![CDATA[교통, 생활 인프라 등 입지 포인트를 확인하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 프리미엄 -->
+    <item>
+      <title>프리미엄</title>
+      <link>https://intercs.co.kr/LocationEnvironment/primium</link>
+      <guid isPermaLink="true">https://intercs.co.kr/LocationEnvironment/primium</guid>
+      <description><![CDATA[청주 센트럴 더 플래티넘의 프리미엄 포인트를 확인하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 단지 배치도 -->
+    <item>
+      <title>단지 배치도</title>
+      <link>https://intercs.co.kr/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://intercs.co.kr/ComplexGuide/intro</guid>
+      <description><![CDATA[단지 배치 및 동선을 확인하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 호수 배치도 -->
+    <item>
+      <title>호수 배치도</title>
+      <link>https://intercs.co.kr/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://intercs.co.kr/ComplexGuide/detailintro</guid>
+      <description><![CDATA[동·호수 배치 정보를 확인하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 커뮤니티 -->
+    <item>
+      <title>커뮤니티</title>
+      <link>https://intercs.co.kr/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://intercs.co.kr/ComplexGuide/community</guid>
+      <description><![CDATA[단지 커뮤니티 시설을 소개합니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 59A -->
+    <item>
+      <title>59A</title>
+      <link>https://intercs.co.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/59A</guid>
+      <description><![CDATA[59A 타입 평면 안내입니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 59B -->
+    <item>
+      <title>59B</title>
+      <link>https://intercs.co.kr/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/59B</guid>
+      <description><![CDATA[59B 타입 평면 안내입니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 59C -->
+    <item>
+      <title>59C</title>
+      <link>https://intercs.co.kr/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/84A</guid>
+      <description><![CDATA[59C 타입 평면 안내입니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 84A -->
+    <item>
+      <title>84A</title>
+      <link>https://intercs.co.kr/FloorPlan/84B</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/84B</guid>
+      <description><![CDATA[84A 타입 평면 안내입니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 84B -->
+    <item>
+      <title>84B</title>
+      <link>https://intercs.co.kr/FloorPlan/114A</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/114A</guid>
+      <description><![CDATA[84B 타입 평면 안내입니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 84C -->
+    <item>
+      <title>84C</title>
+      <link>https://intercs.co.kr/FloorPlan/114B</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/114B</guid>
+      <description><![CDATA[84C 타입 평면 안내입니다.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- E-모델하우스 -->
+    <item>
+      <title>E-모델하우스</title>
+      <link>https://intercs.co.kr/FloorPlan/Emodel</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/Emodel</guid>
+      <description><![CDATA[온라인 E-모델하우스를 확인하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 관심고객등록 -->
+    <item>
+      <title>관심고객등록</title>
+      <link>https://intercs.co.kr/Promotion/Customer</link>
+      <guid isPermaLink="true">https://intercs.co.kr/Promotion/Customer</guid>
+      <description><![CDATA[관심고객 등록 및 상담 신청을 진행하세요.]]></description>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+  </channel>
+</rss>
