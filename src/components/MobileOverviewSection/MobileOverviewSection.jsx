@@ -41,7 +41,7 @@ const items = [
         <li>
           <strong>주택형</strong>
           <span>
-            전용 84㎡ / 111㎡ (예정)
+            전용 59㎡ / 84㎡ (예정)
           </span>
         </li>
         <li>
