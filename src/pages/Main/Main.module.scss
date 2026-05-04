@@ -91,7 +91,7 @@
     font-weight: 800;
     font-size: 2vw; /* 텍스트2 가장 큰 크기 */
     margin: 1vw 0;
-    color: #FFFFFF; /* 파랑 색상 */
+    color: #00071f; /* 파랑 색상 */
 }
 
 /* 텍스트 애니메이션 */
@@ -276,7 +276,7 @@
         background-color: #FFFFFF;
 
         img {
-            width: 12%;
+            width: 30%;
             margin-top: 5vw;
         }
 
@@ -360,9 +360,9 @@
     }
 
     img {
-        margin-top: 8vw;
+        margin-top: 15vw;
         margin-right: 5vw;
-        width: 30vw;
+        width: 40vw;
     }
 }
 
@@ -988,6 +988,7 @@
     }
 }
 .section8 {
+    font-family: 'Pretendard-Regular';
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -1008,7 +1009,7 @@
 
         .title {
             color: #16243e;
-            font-family: 'NanumHumanTTFBold';  
+            font-family: 'Pretendard-Regular';
             font-size: 2vw;
             font-weight: 600;
             line-height: 3.5vw;
@@ -1038,7 +1039,7 @@
 
             .subText {
                 color: #16243e;
-                font-family: 'NanumHumanTTFBold';
+                font-family: 'Pretendard-Regular';
                 font-size: 1.3vw;
                 line-height: 2vw;
             }
@@ -1047,8 +1048,8 @@
     }
 
     img {
-        margin: 10vw 10vw 2vw 0;
-        width: 35vw;
+        margin: 12vw 5vw 2vw 0;
+        width: 45vw;
 
     }
 }
