@@ -51,36 +51,36 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `440세대 랜드마크 제일 풍경채`,
-    text2: `청주를 대표할<br />
-			      브랜드 프리미엄`,
+    text1: `청주 49층 랜드마크 주거타워`,
+    text2: `지상 49층 초고층<br />
+			      청주를 대표할 스카이라인 완성`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
-    text1: `여유로운 직주근접 단지`,
-    text2: `전국 최대 청주 센트럴 더 플래티넘<br />
-			      청주의 미래를 선점하는 수혜단지`,
+    text1: `청주 중심 입지 프리미엄`,
+    text2: `고속터미널·백화점·대형마트<br />
+			      완성된 생활 인프라의 중심`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
-    text1: `매머드 급 고품격 커뮤니티`,
-    text2: `대형 피트니스 센터 및<br />
-			      독서실 골프클럽 등 대규모 커뮤니티`,
+    text1: `대규모 고품격 커뮤니티`,
+    text2: `피트니스·골프연습장·사우나 등<br />
+			      약 1,100평 규모 커뮤니티 시설`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `10년 살아보고 결정하는 혜택`,
-    text2: `합리적인 임대료로 부담을 낮춘<br />
-			      내 집 마련의 기회`,
+    text1: `10년 장기 민간임대 시스템`,
+    text2: `내 집처럼 안정적으로 거주 후<br />
+			      미래를 선택하는 주거 방식`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
   },
